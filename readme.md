@@ -47,7 +47,7 @@ PHPUnit, etc.) executables as exist in your development server's environment.
 License
 -------
 
-Copyright (c) 2011 Chad Miller.
+Original code and modifications to CodeIgniter Source are (c) 2012 Redvel Software LLC.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this 
 software and associated documentation files (the "Software"), to deal in the Software 
@@ -57,7 +57,7 @@ permit persons to whom the Software is furnished to do so, subject to the follow
 conditions:
 
 The above copyright notice and this permission notice shall be included in all 
-copies or substantial portions of the Software.
+copies or substantial portions of the Software not used in production.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
 INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A 
