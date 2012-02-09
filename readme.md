@@ -7,7 +7,7 @@ your application directory, wherever that may be. For me (YMMV), that means I'd 
 command from my CI project directory:
 
 ```bash
-$ git submodule add git://github.com/cmillr/CI-PHPUnit.git application/tests
+$ git submodule add git://github.com/Redvel/PHPUnit-for-CodeIgniter.git application/tests
 ```
 
 To test and make sure everything is set up OK, go to your new tests directory on
