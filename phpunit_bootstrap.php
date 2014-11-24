@@ -203,6 +203,7 @@ if (file_exists(APPPATH.'core/'.$CFG->config['subclass_prefix'].'Controller.php'
 
 
 require_once('ci_testcase.php');
+require_once('ci_dbtestcase.php');
 
 /*
  * ------------------------------------------------------
